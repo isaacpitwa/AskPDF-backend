@@ -32,8 +32,9 @@
 ## Requirements
 
 - Python 3.8+
-- Node.js (for the frontend)
 - pip (Python package installer)
+- Ollama (Follow the installation instructions [here](https://github.com/ollama/ollama))
+
 
 ## Installation
 

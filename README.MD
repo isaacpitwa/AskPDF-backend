@@ -1,7 +1,7 @@
 
 # AskPDF Application
 
-> This project is a web application that allows users to upload PDF documents, ask questions related to the content of the PDFs, and receive answers. The backend is built using FastAPI, with natural language processing (NLP) capabilities powered by LangChain and LlamaIndex. The frontend is designed using React.js, and the application uses SQLite for database management and stores uploaded PDFs in the local filesystem.
+> AskPDF is a web application that allows users to upload PDF documents, ask questions related to the content of the PDFs, and receive answers. The backend is built using FastAPI, with natural language processing (NLP) capabilities powered by LangChain and LlamaIndex. The frontend is designed using React.js, and the application uses SQLite for database management and stores uploaded PDFs in the local filesystem.
 
 ## Table of Contents
 

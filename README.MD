@@ -9,7 +9,6 @@
 - [Technologies](#technologies)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Project Structure](#project-structure)
 - [License](#license)
@@ -42,8 +41,8 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/isaacpitwa/AskPDF-backend.git
+   cd AskPDF-backend
    ```
 
 2. **Create a virtual environment**:
@@ -57,19 +56,6 @@
    pip install -r requirements.txt
    ```
 
-### Frontend
-
-1. **Navigate to the frontend directory**:
-   ```bash
-   cd frontend
-   ```
-
-2. **Install the dependencies**:
-   ```bash
-   npm install
-   ```
-
-## Usage
 
 ### Running the Backend
 
